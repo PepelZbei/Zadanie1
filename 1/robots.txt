@@ -1,0 +1,3 @@
+User-agent: *
+allow: *
+Sitemap: https://localhost/kostya/1/sitemap.xml
